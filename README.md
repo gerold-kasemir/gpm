@@ -9,5 +9,6 @@ Saving bandwidth includes filtering unnecessary parts of the source file, which 
 
 ## The PowerShell Script part
 
+*gpm/ps1/compress-toClipboard.ps1*
 
 Only tested on a Windows desktop. Filters out comments, placing results into the clipboard for pasting elsewhere. Not a necessary part of *gpm*, but included into this repository.
